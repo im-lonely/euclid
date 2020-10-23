@@ -1,3 +1,5 @@
+# This repository is dead. All changes have been merged into theadityat24/Euclid
+
 # blah blah blah react stuff blah blah blah create react app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
